@@ -13,3 +13,4 @@ Browsers that misreport `svh`, `lvh` units
 
 This behaviour causes cumulative layout shift when `min-height: 100lvh` used 
 
+[dynamic-viewport-cls.webm](https://github.com/user-attachments/assets/16dd921a-c0a9-4ced-9798-55eb6ce5056c)
