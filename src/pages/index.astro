@@ -1,4 +1,6 @@
 ---
+import { Checker } from "./Checker";
+
 
 ---
 
@@ -8,9 +10,9 @@
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>Broken dynamic viewport units demo</title>
 	</head>
-	<body>
-		<h1>Astro</h1>
+	<body class="h-[200vh]">
+    <Checker client:load />
 	</body>
 </html>
