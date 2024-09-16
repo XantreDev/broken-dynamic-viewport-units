@@ -7,6 +7,7 @@ Browsers that misreport `svh`, `lvh` units
  - Brave (iOS)
  - Arc (iOS)
  - Opera (iOS)
+ - Telegram Webview (iOS)
 
 [dynamic-viewport.webm](https://github.com/user-attachments/assets/1eae0f59-e93b-4b45-be80-eb2b645c8da0)
 
